@@ -1,3 +1,4 @@
+```py
 NAME
     crlfe - Control Return Line Feed Eliminator.
 
@@ -15,3 +16,4 @@ DESCRIPTION
 
 IMPLEMENTATION
     Nathan Reed <nreed@linux.com>
+```
